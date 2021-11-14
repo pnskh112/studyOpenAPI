@@ -1,5 +1,5 @@
 # studyOpenAPI
-## abailable uage
+## abailable type
 - integer
 - number
 - string
